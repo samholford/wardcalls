@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Falls	</title>
-	<atom:link href="/falls/feed/" rel="self" type="application/rss+xml" />
-	<link>/falls/</link>
+	<atom:link href="/wardcalls/falls/feed/" rel="self" type="application/rss+xml" />
+	<link>/wardcalls/falls/</link>
 	<description>The NZ podcast approaching ward calls and house officer life</description>
 	<lastBuildDate>Sat, 09 Jun 2018 07:39:57 +0000</lastBuildDate>
 	<sy:updatePeriod>
