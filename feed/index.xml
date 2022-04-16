@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Ward Calls</title>
-	<atom:link href="/wardcalls/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/wardcalls/</link>
 	<description>The NZ podcast approaching ward calls and house officer life</description>
 	<lastBuildDate>Fri, 17 Sep 2021 04:04:19 +0000</lastBuildDate>
@@ -40,10 +40,10 @@
 		<category><![CDATA[obstruction]]></category>
 		<guid isPermaLink="false">/wardcalls/?p=187</guid>
 
-					<description><![CDATA[Dr Ivor Popovich presents examples of evidence-based decision making during ward calls. We also highlight some recommendations from Choosing Wisely and give an update on death certification. The Intern Suppository &#8211; Ivor&#8217;s EBM blog The Rational Clinical Examination &#8211; JAMA Plain film in small bowel obstruction The gas-less abdomen Paucity of gas Non-specific bowel gas &#8230; <p class="read-more"><a class="btn btn-default" href="/wardcalls/the-intern-suppository/"> Read More<span class="screen-reader-text">  Read More</span></a></p>]]></description>
+					<description><![CDATA[Dr Ivor Popovich presents examples of evidence-based decision making during ward calls. We also highlight some recommendations from Choosing Wisely and give an update on death certification. The Intern Suppository &#8211; Ivor&#8217;s EBM blog The Rational Clinical Examination &#8211; JAMA Plain film in small bowel obstruction The gas-less abdomen Paucity of gas Non-specific bowel gas &#8230; <p class="read-more"><a class="btn btn-default" href="/the-intern-suppository/"> Read More<span class="screen-reader-text">  Read More</span></a></p>]]></description>
 		
 		
-		<enclosure url="/wardcalls/wp-content/uploads/2018/04/Ward-Calls-14-The-intern-suppository.mp3" length="27472865" type="audio/mpeg" />
+		<enclosure url="/wp-content/uploads/2018/04/Ward-Calls-14-The-intern-suppository.mp3" length="27472865" type="audio/mpeg" />
 
 			</item>
 		<item>
@@ -59,10 +59,10 @@
 		<category><![CDATA[QRS]]></category>
 		<guid isPermaLink="false">/wardcalls/?p=172</guid>
 
-					<description><![CDATA[Cardiology expert Adele Pope returns with an approach differentiating tachycardia and managing atrial fibrillation. We also discuss ventricular ectopics, bigeminy and peri-operative anticoagulant and anti-platelet adjustment. Differential Life threatening VT SVT AFib Flutter Common triggers of AFib Post operative state Myocardial infarction Sepsis Anaemia Hypo- or hypervolaemia Pulmonary embolus Electrolyte disturbance Cardiac dysrhythmia Non-cardiac Anemia &#8230; <p class="read-more"><a class="btn btn-default" href="/wardcalls/af-tachycardia/"> Read More<span class="screen-reader-text">  Read More</span></a></p>]]></description>
+					<description><![CDATA[Cardiology expert Adele Pope returns with an approach differentiating tachycardia and managing atrial fibrillation. We also discuss ventricular ectopics, bigeminy and peri-operative anticoagulant and anti-platelet adjustment. Differential Life threatening VT SVT AFib Flutter Common triggers of AFib Post operative state Myocardial infarction Sepsis Anaemia Hypo- or hypervolaemia Pulmonary embolus Electrolyte disturbance Cardiac dysrhythmia Non-cardiac Anemia &#8230; <p class="read-more"><a class="btn btn-default" href="/af-tachycardia/"> Read More<span class="screen-reader-text">  Read More</span></a></p>]]></description>
 		
 		
-		<enclosure url="/wardcalls/wp-content/uploads/2017/12/Ward-Calls-13-AF-and-tachycardia.mp3" length="30266463" type="audio/mpeg" />
+		<enclosure url="/wp-content/uploads/2017/12/Ward-Calls-13-AF-and-tachycardia.mp3" length="30266463" type="audio/mpeg" />
 
 			</item>
 		<item>
@@ -78,10 +78,10 @@
 		<category><![CDATA[MECA]]></category>
 		<guid isPermaLink="false">/wardcalls/?p=174</guid>
 
-					<description><![CDATA[Foremost expert on all things NZRDA, Dr Deborah Powell, explains why RMOs get free meals, what 8.1.2 is, and the RDA&#8217;s role in helping members in trouble. Meals and the NZRDA Education trust 8.1.2 &#8220;For runs to which the above paragraph does not apply, any Ordinary Hours which are not rostered shall be counted as &#8230; <p class="read-more"><a class="btn btn-default" href="/wardcalls/dr-deborah-powell/"> Read More<span class="screen-reader-text">  Read More</span></a></p>]]></description>
+					<description><![CDATA[Foremost expert on all things NZRDA, Dr Deborah Powell, explains why RMOs get free meals, what 8.1.2 is, and the RDA&#8217;s role in helping members in trouble. Meals and the NZRDA Education trust 8.1.2 &#8220;For runs to which the above paragraph does not apply, any Ordinary Hours which are not rostered shall be counted as &#8230; <p class="read-more"><a class="btn btn-default" href="/dr-deborah-powell/"> Read More<span class="screen-reader-text">  Read More</span></a></p>]]></description>
 		
 		
-		<enclosure url="/wardcalls/wp-content/uploads/2017/12/Ward-Calls-12-Dr-Deborah-Powell.mp3" length="26997626" type="audio/mpeg" />
+		<enclosure url="/wp-content/uploads/2017/12/Ward-Calls-12-Dr-Deborah-Powell.mp3" length="26997626" type="audio/mpeg" />
 
 			</item>
 		<item>
@@ -97,10 +97,10 @@
 		<category><![CDATA[reasoning]]></category>
 		<guid isPermaLink="false">/wardcalls/?p=155</guid>
 
-					<description><![CDATA[Sam meets some podcasting celebrities and experts in clinical reasoning Dr Art Nahill and Dr Nic Szecket &#8211; hosts of the podcast IM Reasoning. We talk cognitive bias and and some approaches to minimising their impact. Common biases Confirmation bias The tendency to search for or interpret information in a way that confirms one&#8217;s preconceptions, &#8230; <p class="read-more"><a class="btn btn-default" href="/wardcalls/clinical-reasoning/"> Read More<span class="screen-reader-text">  Read More</span></a></p>]]></description>
+					<description><![CDATA[Sam meets some podcasting celebrities and experts in clinical reasoning Dr Art Nahill and Dr Nic Szecket &#8211; hosts of the podcast IM Reasoning. We talk cognitive bias and and some approaches to minimising their impact. Common biases Confirmation bias The tendency to search for or interpret information in a way that confirms one&#8217;s preconceptions, &#8230; <p class="read-more"><a class="btn btn-default" href="/clinical-reasoning/"> Read More<span class="screen-reader-text">  Read More</span></a></p>]]></description>
 		
 		
-		<enclosure url="/wardcalls/wp-content/uploads/2017/11/Ward-Calls-11-Clinical-reasoning.mp3" length="28303890" type="audio/mpeg" />
+		<enclosure url="/wp-content/uploads/2017/11/Ward-Calls-11-Clinical-reasoning.mp3" length="28303890" type="audio/mpeg" />
 
 			</item>
 		<item>
@@ -117,10 +117,10 @@
 		<category><![CDATA[SOAP]]></category>
 		<guid isPermaLink="false">/wardcalls/?p=130</guid>
 
-					<description><![CDATA[Vani and Sam give suggestions on how to improve these everyday skills that can otherwise take a lifetime to learn.  Why is this important? Decisions will be made based on documentation &#8211; we are lazy and tend not to verify information. Allows you to organise your thoughts, review notes, and identify gaps. Is a legal &#8230; <p class="read-more"><a class="btn btn-default" href="/wardcalls/documentation-prioritisation-and-handover/"> Read More<span class="screen-reader-text">  Read More</span></a></p>]]></description>
+					<description><![CDATA[Vani and Sam give suggestions on how to improve these everyday skills that can otherwise take a lifetime to learn.  Why is this important? Decisions will be made based on documentation &#8211; we are lazy and tend not to verify information. Allows you to organise your thoughts, review notes, and identify gaps. Is a legal &#8230; <p class="read-more"><a class="btn btn-default" href="/documentation-prioritisation-and-handover/"> Read More<span class="screen-reader-text">  Read More</span></a></p>]]></description>
 		
 		
-		<enclosure url="/wardcalls/wp-content/uploads/2017/11/Ward-Calls-10-Documentation.mp3" length="22314792" type="audio/mpeg" />
+		<enclosure url="/wp-content/uploads/2017/11/Ward-Calls-10-Documentation.mp3" length="22314792" type="audio/mpeg" />
 
 			</item>
 		<item>
@@ -138,10 +138,10 @@
 		<category><![CDATA[troponin]]></category>
 		<guid isPermaLink="false">http://wardcalls.com/?p=1</guid>
 
-					<description><![CDATA[Sam speaks to Dr Adele Pope, advanced cardiology trainee at Auckland Hospital, about how to attack the most common, and often the most uncertain, ward call. Differential Life threatening ACS PE Dissection Cardiac tamponade Pneumonia Pneumothorax Oesophageal bleed Heart Pericarditis Lungs Mechanical (foreign body, surgical, chest drain, post-pleurocentesis) Oesophagus Reflux Oesophagitis Oesophageal spasm MSK Musculoskeletal &#8230; <p class="read-more"><a class="btn btn-default" href="/wardcalls/chest-pain/"> Read More<span class="screen-reader-text">  Read More</span></a></p>]]></description>
+					<description><![CDATA[Sam speaks to Dr Adele Pope, advanced cardiology trainee at Auckland Hospital, about how to attack the most common, and often the most uncertain, ward call. Differential Life threatening ACS PE Dissection Cardiac tamponade Pneumonia Pneumothorax Oesophageal bleed Heart Pericarditis Lungs Mechanical (foreign body, surgical, chest drain, post-pleurocentesis) Oesophagus Reflux Oesophagitis Oesophageal spasm MSK Musculoskeletal &#8230; <p class="read-more"><a class="btn btn-default" href="/chest-pain/"> Read More<span class="screen-reader-text">  Read More</span></a></p>]]></description>
 		
 		
-		<enclosure url="/wardcalls/wp-content/uploads/2017/11/Ward-Calls-09-Chest-pain.mp3" length="33422926" type="audio/mpeg" />
+		<enclosure url="/wp-content/uploads/2017/11/Ward-Calls-09-Chest-pain.mp3" length="33422926" type="audio/mpeg" />
 
 			</item>
 		<item>
@@ -159,10 +159,10 @@
 		<category><![CDATA[warfarin]]></category>
 		<guid isPermaLink="false">/wardcalls/?p=126</guid>
 
-					<description><![CDATA[Sam and Vani explore the most common requests for after hours prescribing and how to safely and quickly approach prescribing of insulin, warfarin, analgesia, antiemetics, and sleeping tablets. Insulin Generally treat any blood glucose of 20 or above. Target range: Inpatient: 7 &#8211; 14 mmol/L Outpatient: 4 &#8211; 10 mmol/L Achieving target 60% of the &#8230; <p class="read-more"><a class="btn btn-default" href="/wardcalls/prescribing-calls/"> Read More<span class="screen-reader-text">  Read More</span></a></p>]]></description>
+					<description><![CDATA[Sam and Vani explore the most common requests for after hours prescribing and how to safely and quickly approach prescribing of insulin, warfarin, analgesia, antiemetics, and sleeping tablets. Insulin Generally treat any blood glucose of 20 or above. Target range: Inpatient: 7 &#8211; 14 mmol/L Outpatient: 4 &#8211; 10 mmol/L Achieving target 60% of the &#8230; <p class="read-more"><a class="btn btn-default" href="/prescribing-calls/"> Read More<span class="screen-reader-text">  Read More</span></a></p>]]></description>
 		
 		
-		<enclosure url="/wardcalls/wp-content/uploads/2017/11/Ward-Calls-08-Prescribing-calls.mp3" length="36436091" type="audio/mpeg" />
+		<enclosure url="/wp-content/uploads/2017/11/Ward-Calls-08-Prescribing-calls.mp3" length="36436091" type="audio/mpeg" />
 
 			</item>
 		<item>
@@ -185,10 +185,10 @@
 		<category><![CDATA[union]]></category>
 		<guid isPermaLink="false">/wardcalls/?p=138</guid>
 
-					<description><![CDATA[Most RMOs don’t ever get around to reading the their employment contract (MECA). In this episode, Sam talks to NZRDA advocates Melissa Dobbyn and Tara Martin about what you need to know, and where to get help. Key concepts to be familiar with Cross cover outside ordinary hours (XXOOH) Cross cover Max 2 long days &#8230; <p class="read-more"><a class="btn btn-default" href="/wardcalls/starting-work-and-the-meca/"> Read More<span class="screen-reader-text">  Read More</span></a></p>]]></description>
+					<description><![CDATA[Most RMOs don’t ever get around to reading the their employment contract (MECA). In this episode, Sam talks to NZRDA advocates Melissa Dobbyn and Tara Martin about what you need to know, and where to get help. Key concepts to be familiar with Cross cover outside ordinary hours (XXOOH) Cross cover Max 2 long days &#8230; <p class="read-more"><a class="btn btn-default" href="/starting-work-and-the-meca/"> Read More<span class="screen-reader-text">  Read More</span></a></p>]]></description>
 		
 		
-		<enclosure url="/wardcalls/wp-content/uploads/2017/11/Ward-Calls-07-Starting-work-and-the-MECA.mp3" length="45454849" type="audio/mpeg" />
+		<enclosure url="/wp-content/uploads/2017/11/Ward-Calls-07-Starting-work-and-the-MECA.mp3" length="45454849" type="audio/mpeg" />
 
 			</item>
 		<item>
@@ -205,10 +205,10 @@
 		<category><![CDATA[resus]]></category>
 		<guid isPermaLink="false">/wardcalls/?p=117</guid>
 
-					<description><![CDATA[Sam speaks to Intensivists Dr Jonathan Casement and Dr Rob Everitt about reduced consciousness and acute and post-seizure management. Approach to fluctuating GCS Eyeball the patient / ABCs Calling a code &#8211; certainly if the patient is not rousable! 777 (or your local hospital emergency number) This is Sam, medical house officer I need the &#8230; <p class="read-more"><a class="btn btn-default" href="/wardcalls/fluctuating-gcs-and-seizures/"> Read More<span class="screen-reader-text">  Read More</span></a></p>]]></description>
+					<description><![CDATA[Sam speaks to Intensivists Dr Jonathan Casement and Dr Rob Everitt about reduced consciousness and acute and post-seizure management. Approach to fluctuating GCS Eyeball the patient / ABCs Calling a code &#8211; certainly if the patient is not rousable! 777 (or your local hospital emergency number) This is Sam, medical house officer I need the &#8230; <p class="read-more"><a class="btn btn-default" href="/fluctuating-gcs-and-seizures/"> Read More<span class="screen-reader-text">  Read More</span></a></p>]]></description>
 		
 		
-		<enclosure url="/wardcalls/wp-content/uploads/2017/11/Ward-Calls-06-Fluctuating-GCS-and-seizures.mp3" length="53505836" type="audio/mpeg" />
+		<enclosure url="/wp-content/uploads/2017/11/Ward-Calls-06-Fluctuating-GCS-and-seizures.mp3" length="53505836" type="audio/mpeg" />
 
 			</item>
 		<item>
@@ -227,10 +227,10 @@
 		<category><![CDATA[sepsis]]></category>
 		<guid isPermaLink="false">/wardcalls/?p=73</guid>
 
-					<description><![CDATA[Sam talks to Infectious Diseases Physician Assoc. Prof Mark Thomas about fever and the minutiae of microbiological investigations. Cause of fever Infection (cytokines) Atelectasis Medications including transfusion reaction Alcohol withdrawal PE Malignancy Approach Eyeball the patient / ABCs History should be directed at identifying evidence of infection across the following systems: Lungs Gastrointestinal Genitourinary Skin &#8230; <p class="read-more"><a class="btn btn-default" href="/wardcalls/fever-and-infection/"> Read More<span class="screen-reader-text">  Read More</span></a></p>]]></description>
+					<description><![CDATA[Sam talks to Infectious Diseases Physician Assoc. Prof Mark Thomas about fever and the minutiae of microbiological investigations. Cause of fever Infection (cytokines) Atelectasis Medications including transfusion reaction Alcohol withdrawal PE Malignancy Approach Eyeball the patient / ABCs History should be directed at identifying evidence of infection across the following systems: Lungs Gastrointestinal Genitourinary Skin &#8230; <p class="read-more"><a class="btn btn-default" href="/fever-and-infection/"> Read More<span class="screen-reader-text">  Read More</span></a></p>]]></description>
 		
 		
-		<enclosure url="/wardcalls/wp-content/uploads/2017/09/Ward-Calls-05-Fever-and-infection.mp3" length="37332084" type="audio/mpeg" />
+		<enclosure url="/wp-content/uploads/2017/09/Ward-Calls-05-Fever-and-infection.mp3" length="37332084" type="audio/mpeg" />
 
 			</item>
 		<item>
@@ -246,10 +246,10 @@
 		<category><![CDATA[syncope]]></category>
 		<guid isPermaLink="false">/wardcalls/?p=58</guid>
 
-					<description><![CDATA[Patient has fallen, please review. Vani talks to Geriatrician and fall expert Dr Cheryl Johnson about an approach to falls and when to order that head CT. Fall causes Common Delirium Visual impairment Peripheral sensory neuropathy Stroke/TIA Joint buckling/instability Deconditioning Medication effect or polypharmacy Enviromental hazards Uncommon Vestibular dysfunction Gait disorder Dementia Depression Seizure Subdural &#8230; <p class="read-more"><a class="btn btn-default" href="/wardcalls/falls/"> Read More<span class="screen-reader-text">  Read More</span></a></p>]]></description>
+					<description><![CDATA[Patient has fallen, please review. Vani talks to Geriatrician and fall expert Dr Cheryl Johnson about an approach to falls and when to order that head CT. Fall causes Common Delirium Visual impairment Peripheral sensory neuropathy Stroke/TIA Joint buckling/instability Deconditioning Medication effect or polypharmacy Enviromental hazards Uncommon Vestibular dysfunction Gait disorder Dementia Depression Seizure Subdural &#8230; <p class="read-more"><a class="btn btn-default" href="/falls/"> Read More<span class="screen-reader-text">  Read More</span></a></p>]]></description>
 		
 		
-		<enclosure url="/wardcalls/wp-content/uploads/2017/09/Ward-Calls-04-Falls.mp3" length="23434162" type="audio/mpeg" />
+		<enclosure url="/wp-content/uploads/2017/09/Ward-Calls-04-Falls.mp3" length="23434162" type="audio/mpeg" />
 
 			</item>
 		<item>
@@ -268,10 +268,10 @@
 		<category><![CDATA[transfusion]]></category>
 		<guid isPermaLink="false">/wardcalls/?p=56</guid>
 
-					<description><![CDATA[Sam speaks to Intensivists Dr Jonathan Casement and Dr Rob Everitt about differentiating and managing hypotension. Differential Life threatening Acute haemorrhage On the floor and four more Sepsis Arrhythmia/cardiac Drugs (including transfusion reaction) Anaphylaxis Dehydration (beware the accuracy of this diagnosis) Epidural anaesthesia Heart failure Pregnancy Syncope/postural Neurological Positional PD Diabetes Approach Eyeball the patient &#8230; <p class="read-more"><a class="btn btn-default" href="/wardcalls/hypotension/"> Read More<span class="screen-reader-text">  Read More</span></a></p>]]></description>
+					<description><![CDATA[Sam speaks to Intensivists Dr Jonathan Casement and Dr Rob Everitt about differentiating and managing hypotension. Differential Life threatening Acute haemorrhage On the floor and four more Sepsis Arrhythmia/cardiac Drugs (including transfusion reaction) Anaphylaxis Dehydration (beware the accuracy of this diagnosis) Epidural anaesthesia Heart failure Pregnancy Syncope/postural Neurological Positional PD Diabetes Approach Eyeball the patient &#8230; <p class="read-more"><a class="btn btn-default" href="/hypotension/"> Read More<span class="screen-reader-text">  Read More</span></a></p>]]></description>
 		
 		
-		<enclosure url="/wardcalls/wp-content/uploads/2017/09/Ward-Calls-03-Hypotension.mp3" length="45160808" type="audio/mpeg" />
+		<enclosure url="/wp-content/uploads/2017/09/Ward-Calls-03-Hypotension.mp3" length="45160808" type="audio/mpeg" />
 
 			</item>
 		<item>
@@ -290,10 +290,10 @@
 		<category><![CDATA[sob]]></category>
 		<guid isPermaLink="false">/wardcalls/?p=48</guid>
 
-					<description><![CDATA[Sam discusses shortness of breath and oxygen use with Respiratory and General Medicine advanced trainee Dr Cam Sullivan. We also delve into more advanced pneumonia management and investigation as well general expectations of house officers on ward calls. Differential (acute dyspnoea) Life threatening PE Infection Asthma Anaphylaxis Pneumothorax Pulmonary oedema Pulmonary haemorrhage (TB or anti-coagulated) &#8230; <p class="read-more"><a class="btn btn-default" href="/wardcalls/shortness-of-breath-and-oxygen/"> Read More<span class="screen-reader-text">  Read More</span></a></p>]]></description>
+					<description><![CDATA[Sam discusses shortness of breath and oxygen use with Respiratory and General Medicine advanced trainee Dr Cam Sullivan. We also delve into more advanced pneumonia management and investigation as well general expectations of house officers on ward calls. Differential (acute dyspnoea) Life threatening PE Infection Asthma Anaphylaxis Pneumothorax Pulmonary oedema Pulmonary haemorrhage (TB or anti-coagulated) &#8230; <p class="read-more"><a class="btn btn-default" href="/shortness-of-breath-and-oxygen/"> Read More<span class="screen-reader-text">  Read More</span></a></p>]]></description>
 		
 		
-		<enclosure url="/wardcalls/wp-content/uploads/2017/09/Ward-Calls-02-SOB-and-oxygen.mp3" length="47266801" type="audio/mpeg" />
+		<enclosure url="/wp-content/uploads/2017/09/Ward-Calls-02-SOB-and-oxygen.mp3" length="47266801" type="audio/mpeg" />
 
 			</item>
 		<item>
@@ -309,10 +309,10 @@
 		<category><![CDATA[legal]]></category>
 		<guid isPermaLink="false">/wardcalls/?p=99</guid>
 
-					<description><![CDATA[Update March 2018 Since recording, a pilot electronic death certification project has launched. See these resources: MOH Death Documents website MOH press release The MOH has also released some new guidance to completion of the death certificates and including cause of death. See the resources section at the bottom of this post. Despite its significance, &#8230; <p class="read-more"><a class="btn btn-default" href="/wardcalls/verifying-and-certifying-death/"> Read More<span class="screen-reader-text">  Read More</span></a></p>]]></description>
+					<description><![CDATA[Update March 2018 Since recording, a pilot electronic death certification project has launched. See these resources: MOH Death Documents website MOH press release The MOH has also released some new guidance to completion of the death certificates and including cause of death. See the resources section at the bottom of this post. Despite its significance, &#8230; <p class="read-more"><a class="btn btn-default" href="/verifying-and-certifying-death/"> Read More<span class="screen-reader-text">  Read More</span></a></p>]]></description>
 		
 		
-		<enclosure url="/wardcalls/wp-content/uploads/2017/11/Ward-Calls-01-Verifying-and-certifying-death.mp3" length="55429944" type="audio/mpeg" />
+		<enclosure url="/wp-content/uploads/2017/11/Ward-Calls-01-Verifying-and-certifying-death.mp3" length="55429944" type="audio/mpeg" />
 
 			</item>
 		<item>
@@ -324,10 +324,10 @@
 				<category><![CDATA[General]]></category>
 		<guid isPermaLink="false">/wardcalls/?p=144</guid>
 
-					<description><![CDATA[The Ward Calls podcast dissects common ward calls you will need to confidently manage as a PGY1 doctor and beyond. We discuss practical, safe and comprehensive approaches that are achievable in the limited time available when working on the ward. The podcast is co-hosted by Dr Vani Chandran and Dr Sam Holford, based in Auckland, &#8230; <p class="read-more"><a class="btn btn-default" href="/wardcalls/about/"> Read More<span class="screen-reader-text">  Read More</span></a></p>]]></description>
+					<description><![CDATA[The Ward Calls podcast dissects common ward calls you will need to confidently manage as a PGY1 doctor and beyond. We discuss practical, safe and comprehensive approaches that are achievable in the limited time available when working on the ward. The podcast is co-hosted by Dr Vani Chandran and Dr Sam Holford, based in Auckland, &#8230; <p class="read-more"><a class="btn btn-default" href="/about/"> Read More<span class="screen-reader-text">  Read More</span></a></p>]]></description>
 		
 		
-		<enclosure url="/wardcalls/wp-content/uploads/2017/11/Ward-Calls-00-Introduction.mp3" length="1411237" type="audio/mpeg" />
+		<enclosure url="/wp-content/uploads/2017/11/Ward-Calls-00-Introduction.mp3" length="1411237" type="audio/mpeg" />
 
 			</item>
 	</channel>

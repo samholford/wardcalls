@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Comments for Ward Calls	</title>
-	<atom:link href="/wardcalls/comments/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>/wardcalls/</link>
 	<description>The NZ podcast approaching ward calls and house officer life</description>
 	<lastBuildDate>Fri, 17 Sep 2021 04:58:19 +0000</lastBuildDate>

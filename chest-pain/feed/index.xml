@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Comments on: Chest pain	</title>
-	<atom:link href="/wardcalls/chest-pain/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/chest-pain/feed/" rel="self" type="application/rss+xml" />
 	<link>/wardcalls/chest-pain/</link>
 	<description>The NZ podcast approaching ward calls and house officer life</description>
 	<lastBuildDate>Sat, 09 Jun 2018 07:39:57 +0000</lastBuildDate>
